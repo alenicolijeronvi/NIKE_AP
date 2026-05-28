@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+cloudscraper
+beautifulsoup4
+seaborn
+reportlab
